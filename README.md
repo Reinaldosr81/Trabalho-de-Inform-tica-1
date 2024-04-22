@@ -6,5 +6,6 @@ Esta apresentação tem como objetivo demonstrar a produção automotiva no bras
 ![image](https://github.com/Reinaldosr81/Trabalho-de-Inform-tica-1/assets/127999792/7b0216dd-d1db-43ab-9351-62eee7045f2b)
 ![image](https://github.com/Reinaldosr81/Trabalho-de-Inform-tica-1/assets/127999792/d626e16d-eea2-414d-94a9-868f6aff29c9)
 ![image](https://github.com/Reinaldosr81/Trabalho-de-Inform-tica-1/assets/127999792/b47f356c-2146-45c5-a38c-28bb2b8ffe62)
-
+# Atividade de Analise de Custos
+![image](https://github.com/Reinaldosr81/Trabalho-de-Inform-tica-1/assets/127999792/768589d1-306a-4021-9439-f9cba3e64ea1)
 
